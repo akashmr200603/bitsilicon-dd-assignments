@@ -1,0 +1,11 @@
+# Loading project rtl_stopwatch
+# Compile of stopwatch_top.v was successful.
+# Compile of seconds_counter.v was successful.
+# Compile of minutes_counter.v was successful.
+# Compile of control_fsm.v was successful.
+# 4 compiles, 0 failed with no errors.
+# reading /home/akash/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project tb_stopwatch
+# Compile of tb_stopwatch_top.v was successful.
+# Break key hit
+# Compile of tb_stopwatch_top.v was successful.

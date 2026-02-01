@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/akash
+vcontrol_fsm
+Z0 !s110 1769991119
+!i10b 1
+!s100 1zBjQZVdhBPb[MVF]e7d?0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IV]B7MKC1n?WDCcfcV[kCT0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 d/home/akash/Documents/2024aaps0758g_stopwatch/rtl
+w1769991029
+8/home/akash/Documents/2024aaps0758g_stopwatch/rtl/control_fsm.v
+F/home/akash/Documents/2024aaps0758g_stopwatch/rtl/control_fsm.v
+!i122 3
+L0 1 84
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1769991119.000000
+!s107 /home/akash/Documents/2024aaps0758g_stopwatch/rtl/control_fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/akash/Documents/2024aaps0758g_stopwatch/rtl/control_fsm.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vminutes_counter
+R0
+!i10b 1
+!s100 QzT=[SllnPKocBL2N_<X]2
+R1
+IZk;Uo5DE_N=hc>kgAR]P[0
+R2
+R3
+w1769991094
+8/home/akash/Documents/2024aaps0758g_stopwatch/rtl/minutes_counter.v
+F/home/akash/Documents/2024aaps0758g_stopwatch/rtl/minutes_counter.v
+!i122 2
+L0 2 23
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/akash/Documents/2024aaps0758g_stopwatch/rtl/minutes_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/akash/Documents/2024aaps0758g_stopwatch/rtl/minutes_counter.v|
+!i113 1
+R6
+R7
+vseconds_counter
+R0
+!i10b 1
+!s100 8XcUEdg>YWEQdGck]lBLK3
+R1
+I_PkBW>e31z;GSXGKK;S>k1
+R2
+R3
+w1769991061
+8/home/akash/Documents/2024aaps0758g_stopwatch/rtl/seconds_counter.v
+F/home/akash/Documents/2024aaps0758g_stopwatch/rtl/seconds_counter.v
+!i122 1
+L0 1 28
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/akash/Documents/2024aaps0758g_stopwatch/rtl/seconds_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/akash/Documents/2024aaps0758g_stopwatch/rtl/seconds_counter.v|
+!i113 1
+R6
+R7
+vstopwatch_top
+R0
+!i10b 1
+!s100 EUYB<8FH_;6=AI=;^aEc]3
+R1
+IgMO_YhGG1zjbQU@TJbj>_1
+R2
+R3
+w1769991116
+8/home/akash/Documents/2024aaps0758g_stopwatch/rtl/stopwatch_top.v
+F/home/akash/Documents/2024aaps0758g_stopwatch/rtl/stopwatch_top.v
+!i122 0
+L0 2 54
+R4
+r1
+!s85 0
+31
+!s108 1769991118.000000
+!s107 /home/akash/Documents/2024aaps0758g_stopwatch/rtl/stopwatch_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/akash/Documents/2024aaps0758g_stopwatch/rtl/stopwatch_top.v|
+!i113 1
+R6
+R7
+vtb_stopwatch_top
+!s110 1769997628
+!i10b 1
+!s100 4a5oS9TXVNWckeGK8Sg3E0
+R1
+IZfF8`ZR28SokJ[SFAmRI`0
+R2
+R3
+w1769997625
+8/home/akash/Documents/2024aaps0758g_stopwatch/rtl/tb_stopwatch_top.v
+F/home/akash/Documents/2024aaps0758g_stopwatch/rtl/tb_stopwatch_top.v
+!i122 4
+L0 1 45
+R4
+r1
+!s85 0
+31
+!s108 1769997628.000000
+!s107 /home/akash/Documents/2024aaps0758g_stopwatch/rtl/tb_stopwatch_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/akash/Documents/2024aaps0758g_stopwatch/rtl/tb_stopwatch_top.v|
+!i113 1
+R6
+R7
